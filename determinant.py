@@ -32,4 +32,4 @@ def det(matrix):
     return determinant
 
 
-print(det(input_matrix(input("Size: ")))
+print(det(input_matrix(input("Size: "))))
